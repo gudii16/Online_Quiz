@@ -1,9 +1,11 @@
 # Online_Quiz
 A web application where students can take a quiz over the internet. 
 # Description
-Any student can sign up to appear quiz in five subjects namely OS, ACA, CG, Adv Java and IoT.<br/>
-Database contains the schema as well as corresponding data of the relations used in the project.<br/>
-GRKM contains the servlets inside src folder, where as WebContent contains the jsp pages.
+<ul>
+  <li>Any student can sign up to appear quiz in five subjects namely OS, ACA, CG, Adv Java and IoT.</li>
+  <li>Database contains the schema as well as corresponding data of the relations used in the project.</li>
+  <li>GRKM contains the servlets inside src folder, where as WebContent contains the jsp pages.</li>
+</ul>
 # Requirements
 <ul>
   <li>Eclipse JEE IDE</li>
