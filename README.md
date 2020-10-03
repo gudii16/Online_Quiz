@@ -6,6 +6,7 @@ A web application where students can take a quiz over the internet.
   <li>Database contains the schema as well as corresponding data of the relations used in the project.</li>
   <li>GRKM contains the servlets inside src folder, where as WebContent contains the jsp pages.</li>
 </ul>
+
 # Requirements
 <ul>
   <li>Eclipse JEE IDE</li>
