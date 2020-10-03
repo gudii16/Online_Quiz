@@ -175,11 +175,6 @@ window.onload = function() {
     }
 }
 
-window.onbeforeunload = function(){
-   timeout();
-   return null;
-}
-
 </script>
 </head>
 <body>
